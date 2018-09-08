@@ -1,2 +1,2 @@
 # webmasa
-Bir websitesi için Dizinler dosyalar
+Bir websitesi için Örnek Başlangıç Dizinleri ve Dosyalar
